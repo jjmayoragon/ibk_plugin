@@ -1,0 +1,9 @@
+C:\Users\jjmayora\source\repos\ibk_plugin\axx_InterbankingPlugin\obj\Debug\axx_InterbankingPlugin.csproj.AssemblyReference.cache
+C:\Users\jjmayora\source\repos\ibk_plugin\axx_InterbankingPlugin\obj\Debug\axx_InterbankingPlugin.csproj.CoreCompileInputs.cache
+C:\Users\jjmayora\source\repos\ibk_plugin\axx_InterbankingPlugin\bin\Debug\axx_InterbankingPlugin.dll
+C:\Users\jjmayora\source\repos\ibk_plugin\axx_InterbankingPlugin\bin\Debug\axx_InterbankingPlugin.pdb
+C:\Users\jjmayora\source\repos\ibk_plugin\axx_InterbankingPlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\jjmayora\source\repos\ibk_plugin\axx_InterbankingPlugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\jjmayora\source\repos\ibk_plugin\axx_InterbankingPlugin\obj\Debug\axx_InterbankingPlugin.csproj.CopyComplete
+C:\Users\jjmayora\source\repos\ibk_plugin\axx_InterbankingPlugin\obj\Debug\axx_InterbankingPlugin.dll
+C:\Users\jjmayora\source\repos\ibk_plugin\axx_InterbankingPlugin\obj\Debug\axx_InterbankingPlugin.pdb
