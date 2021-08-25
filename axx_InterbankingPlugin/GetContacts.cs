@@ -38,7 +38,7 @@ namespace axx_InterbankingPlugin
                 query.TopCount = 100;
 
                 // Add columns to query.ColumnSet
-                query.ColumnSet.AddColumns("fullname", "axx_idpersona");
+                query.ColumnSet.AddColumns("fullname", "axx_idpersona", "contactid");
 
                 // Define filter query.Criteria
                 query.Criteria.AddCondition("axx_idpersona", ConditionOperator.Like, query_axx_idpersona);
@@ -54,7 +54,8 @@ namespace axx_InterbankingPlugin
                     listOfContacts.Add(new ContactObj
                     {
                         fullName = c.Attributes["fullname"].ToString(),
-                        idPersona = c.Attributes["axx_idpersona"].ToString()
+                        idPersona = c.Attributes["axx_idpersona"].ToString(),
+                        guid = c.Attributes["contactid"].ToString()
                     });
                 }
 
@@ -93,6 +94,9 @@ namespace axx_InterbankingPlugin
 
         [DataMember]
         public string idPersona { get; set; }
+
+        [DataMember]
+        public string guid { get; set; }
     }
 
 }
